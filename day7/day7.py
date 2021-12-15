@@ -12,8 +12,6 @@ for current_position in input:
 
 print("Part2: ", part2_fuel_cost)
 
-
-crab_positions = sorted(input)
 part1_target_position = median(input)
 part1_fuel_cost = 0
 
